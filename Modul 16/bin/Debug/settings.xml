@@ -1,0 +1,1 @@
+<Settings xmlns="http://schemas.datacontract.org/2004/07/FManagerApp" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><FontColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing"><a:knownColor>3</a:knownColor><a:name i:nil="true"/><a:state>1</a:state><a:value>0</a:value></FontColor><FontSize>9</FontSize></Settings>
